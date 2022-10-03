@@ -1,0 +1,53 @@
+#Cabecalho{
+    background:url(./assets/backgorund.jpg) center/cover fixed;
+    height: 900px;
+}
+
+#Menu{
+    margin-left: 500px;
+    width: 250px;
+    font-size: 30px;
+}
+
+li{
+    padding: 10px;
+}
+
+#Introducao{
+    background-color: red;
+    height: 860px;
+}
+
+.h1 {
+    margin-left: 100px;
+    margin-top: 250px;
+    font-size: 80px;
+}
+
+.Descricao{
+    display: inline-block;
+}
+
+#MinhaFoto{
+    border-radius: 300px;
+    margin-top: 130px;
+    margin-right: 400px;
+    float: right;
+}
+
+.links{
+    text-decoration: none;
+    color: #bc2035;
+    padding: 5px;
+    border-radius: 8px;
+    border: 2px solid #bc2035;
+}
+
+.links:visited{
+    color: gray;
+}
+
+.links:hover{
+    background:lightblue;
+    color: blue;
+}
